@@ -25,7 +25,6 @@ https://github.com/harshsahu1/mypathfinder/assets/76099605/8669c7ba-14b8-4148-9a
 You can select a path algorithm using the Algorithms dropdown menu from the navbar.
 The starting node for the algorithm is represented by the Triangle node on the graph and the end node is represented by the Circle node.
 You can alter the positions of the starting and ending nodes, by choosing move StartPoint or move EndPoint in drop down menu from nav bar.
-Any changes to the starting and ending node's locations will persist until the "Clear Board" button is pressed.
 Once an algorithm is selected you can visualize the algorithm by pressing the "Launch" button.
 Doing so will change the color of nodes on the graph in the order they are visited.
 Once the end node is reached the shortest path will be displayed in blue.

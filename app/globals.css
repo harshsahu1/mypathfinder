@@ -58,11 +58,11 @@
   }
 
   .node {
-    @apply flex px-2 place-items-center content-center text-sm text-slate-400 w-7 h-7;
+    @apply flex px-2 place-items-center content-center select-none text-sm text-slate-400 w-7 h-7;
   }
 
   .node-value {
-    @apply flex px-2 place-items-center content-center text-sm text-slate-400 w-7 h-7;
+    @apply flex px-2 place-items-center content-center select-none text-sm text-slate-400 w-7 h-7;
   }
 
   .box {
